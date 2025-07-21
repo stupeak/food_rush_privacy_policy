@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Privacy Policy</title>
+    <style>
+        :root {
+            --bg: #fafafa;
+            --fg: #222;
+            --accent: #4c6ef5;
+        }
+
+        body {
+            margin: 0;
+            padding: 2rem;
+            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg);
+            color: var(--fg);
+            line-height: 1.7;
+            max-width: 900px;
+            margin-inline: auto;
+        }
+
+        h1,
+        h2,
+        h3 {
+            color: var(--accent);
+        }
+
+        pre {
+            background: #eee;
+            padding: 1rem;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Privacy Policy</h1>
+    <div id="content">Loading policy...</div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+        async function loadMarkdown() {
+            const res = await fetch("privacy_policy.md");
+            const text = await res.text();
+            document.getElementById("content").innerHTML = marked.parse(text);
+        }
+        loadMarkdown();
+    </script>
+
+</body>
+
+</html>
