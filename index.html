@@ -44,7 +44,7 @@
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script>
         async function loadMarkdown() {
-            const res = await fetch("privacy_policy.md");
+            const res = await fetch("README.md");
             const text = await res.text();
             document.getElementById("content").innerHTML = marked.parse(text);
         }
