@@ -91,9 +91,9 @@ Currently, **in-app data deletion is not directly supported**.
 
 If you wish to request deletion of your account and associated data (such as email + savegame), please fill out this form:
 
-👉 [https://your-link-here.com/delete-account](#)
+👉 [request delete account](https://docs.google.com/forms/d/e/1FAIpQLSf6gOXf3S348mH9EKvAVea8zdV65H3yFKLS-uHx7EqAZl22FA/viewform)
 
-We will process deletion requests within **7 days**.
+We will process deletion requests as soon as possible.
 
 ---
 
