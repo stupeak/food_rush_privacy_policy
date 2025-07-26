@@ -4,8 +4,11 @@
 
 
 **Effective Date:** 2025-07-21  
+**Last Updated:** 2025-07-27  
 **Developer:** Stupeak  
 **Contact Email:** hieuca205@gmail.com
+
+## 1. Overview
 
 This Privacy Policy describes how Food Rush ("we", "our", or "us") collects, uses, and protects your information when you use our mobile game application on the Google Play Store. We are committed to transparency and to complying with Google Play policies and data protection regulations.
 
@@ -17,18 +20,17 @@ Advertising content is shown in the app, but we do not display personalized ads 
 
 ## 2. Data We Collect
 
-We collect **minimal data** from users to operate game features properly. Data is collected only when necessary:
+By default, **your game progress is stored locally** on your device. No data is uploaded or associated with an account unless you choose to sign in. Once you’ve signed in, we only collect minimal data necessary to operate core game features.
 
 ### a. Personal Information
 If you choose to sign in using **Google Sign-In**, we collect:
 - **Your Google account email address**
 
-This is used solely for identifying and associating your game progress with your account.
-
-We do **not** collect your name, contacts, or profile photos.
+This is used solely for identifying and associating your game progress with your account. We do **not** collect your name, contacts, or profile photos.
 
 ### b. Gameplay Data
-We store your gameplay progress using **Firebase Realtime Database**, including:
+When signed in, your gameplay progress is saved securely to our online server, so you can restore it later or play across different devices. This includes:
+
 - Levels completed
 - Coins, in-game currency
 - upgrades
@@ -46,7 +48,7 @@ The data collected is used for the following purposes:
 - To maintain a consistent game state across devices
 - To improve stability and performance
 
-We do **not** use collected data for advertising personalization, analytics, or cross-service tracking.
+We do **not** use collected data for advertising personalization or cross-service tracking, and we do not sell, rent, or share your data with other companies or organizations.
 
 ---
 
@@ -54,7 +56,7 @@ We do **not** use collected data for advertising personalization, analytics, or 
 
 This app displays **ads** via third-party ad networks (e.g. Unity Ads). These ads may collect limited anonymous device data (such as Ad ID or performance metrics) in accordance with their own privacy policies.
 
-We do **not** show personalized ads to children or users under 13.
+We do **not** show personalized ads to users
 
 You can use the app without making purchases or enabling any special permissions.
 
