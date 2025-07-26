@@ -1,19 +1,17 @@
 # Privacy Policy for Food Rush
 
+![Food Rush Logo](feature_graphic.png)
+
+
 **Effective Date:** 2025-07-21  
 **Developer:** Stupeak  
 **Contact Email:** hieuca205@gmail.com
 
 This Privacy Policy describes how Food Rush ("we", "our", or "us") collects, uses, and protects your information when you use our mobile game application on the Google Play Store. We are committed to transparency and to complying with Google Play policies and data protection regulations.
 
----
+Food Rush is a free casual mobile game created for entertainment. The app is intended for users aged 6 and above, in compliance with the Google Play Families Policy.
 
-## 1. Overview
-
-Food Rush is a free casual mobile game developed for entertainment purposes. The app is designed for users aged 13 and above.  
-It contains optional **advertising content** and uses **Firebase** and **Google Sign-In** services to provide basic functionality.
-
-All core features of the app are available without requiring special device permissions or privileged access.
+Advertising content is shown in the app, but we do not display personalized ads to users. We prioritize user privacy and minimize data collection to only what is necessary for gameplay and account management.
 
 ---
 
