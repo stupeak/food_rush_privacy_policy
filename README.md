@@ -12,7 +12,7 @@
 
 This Privacy Policy describes how Food Rush ("we", "our", or "us") collects, uses, and protects your information when you use our mobile game application on the Google Play Store. We are committed to transparency and to complying with Google Play policies and data protection regulations.
 
-Food Rush is a free casual mobile game created for entertainment. The app is intended for users aged 6 and above, in compliance with the Google Play Families Policy.
+Food Rush is a free casual mobile game created for entertainment. The app is intended for users aged 9 and above, in compliance with the Google Play Families Policy.
 
 Advertising content is shown in the app, but we do not display personalized ads to users. We prioritize user privacy and minimize data collection to only what is necessary for gameplay and account management.
 
@@ -24,17 +24,17 @@ By default, **your game progress is stored locally** on your device. No data is 
 
 ### a. Personal Information
 If you choose to sign in using **Google Sign-In**, we collect:
-- **Your Google account email address**
+- **Your Google account email address**.
 
 This is used solely for identifying and associating your game progress with your account. We do **not** collect your name, contacts, or profile photos.
 
 ### b. Gameplay Data
 When signed in, your gameplay progress is saved securely to our online server, so you can restore it later or play across different devices. This includes:
 
-- Levels completed
-- Coins, in-game currency
-- upgrades
-- game progress
+- Levels completed.
+- Coins, in-game currency.
+- upgrades.
+- game progress.
 
 No payment data or sensitive personal information is stored.
 
@@ -43,10 +43,10 @@ No payment data or sensitive personal information is stored.
 ## 3. How We Use Your Data
 
 The data collected is used for the following purposes:
-- To allow saving and restoring your gameplay progress
-- To identify your account when using Google Sign-In
-- To maintain a consistent game state across devices
-- To improve stability and performance
+- To allow saving and restoring your gameplay progress.
+- To identify your account when using Google Sign-In.
+- To maintain a consistent game state across devices.
+- To improve stability and performance.
 
 We do **not** use collected data for advertising personalization or cross-service tracking, and we do not sell, rent, or share your data with other companies or organizations.
 
@@ -54,9 +54,15 @@ We do **not** use collected data for advertising personalization or cross-servic
 
 ## 4. Advertising
 
-This app displays **ads** via third-party ad networks (e.g. Unity Ads). These ads may collect limited anonymous device data (such as Ad ID or performance metrics) in accordance with their own privacy policies.
+This app displays ads via third-party ad networks (e.g. Unity Ads).
 
-We do **not** show personalized ads to users
+- No personalized ads are shown.  
+- Ads have been **filtered to exclude sensitive or inappropriate content**, ensuring suitability for all ages, including children.  
+- This app **does not collect or transmit the device’s Advertising ID (Ad ID)** or any personal data.  
+- No tracking or profiling is performed.  
+- Ads may collect limited anonymous usage metrics **only for performance and error reporting**, as permitted by Google’s Families policy.
+
+Users can fully enjoy the app **without making purchases or granting special permissions**.
 
 You can use the app without making purchases or enabling any special permissions.
 
@@ -76,7 +82,7 @@ Although we use secure systems, no transmission method over the internet is 100%
 
 We **do not sell, rent, or share** your personal data with any third party outside of:
 - **Google Firebase services** (for login & data storage)
-- **Ad providers** (for displaying ads, not personalized unless allowed by the user)
+- **Ad providers** (for displaying ads, not personalized)
 
 All third-party services are used strictly for operating essential features and are subject to their respective privacy policies:
 
@@ -99,13 +105,11 @@ We will process deletion requests as soon as possible.
 
 ## 8. Children's Privacy & Families Policy
 
-Our game is designed for players **aged 13 and up** and complies with the [Google Play Families Policy](https://support.google.com/googleplay/android-developer/answer/9283445).
+Our game is designed for players aged 9 and above and fully complies with the [Google Play Families Policy](https://support.google.com/googleplay/android-developer/answer/9283445). We are committed to creating a safe and appropriate experience for young users. Specifically:
 
-- We do **not knowingly collect data from users under 13**
-- We do **not show personalized ads to children**
-- We follow best practices for content suitability and family safety
-
-Parents or guardians can contact us if they believe their child has submitted personal data.
+- We do not knowingly collect any personal data from users.
+- We do not display personalized ads to children.
+- All content in the game is reviewed to ensure it aligns with age-appropriate guidelines and is suitable for family audiences.
 
 ---
 
